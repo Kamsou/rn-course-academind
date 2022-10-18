@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     taskItem: {
       margin: 8,
       borderRadius: 6,
-      backgroundColor: '#000000',
+      backgroundColor: '#F2B705',
     },
     pressedItem: {
         opacity: 0.5,
